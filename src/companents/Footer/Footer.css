@@ -1,0 +1,17 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    width: 50%;
+}
+
+.phone {
+    width: 35%;
+}

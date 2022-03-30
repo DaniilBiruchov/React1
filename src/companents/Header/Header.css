@@ -1,0 +1,16 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header__row {
+    padding-right: 3px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}

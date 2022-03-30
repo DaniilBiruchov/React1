@@ -1,0 +1,13 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.name {
+    display: flex;
+    justify-content: space-between;
+}
+
+.name__row {
+    width: 30%;
+}
